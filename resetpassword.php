@@ -20,7 +20,6 @@ else if (isset($_GET['passwordreset'])) {
     </head>
     <body>
     <!-- partial:index.partial.html -->
-    <h2>SRM PLACEMENTS FORUM</h2>
     <div class="container" id="container">
       <div class="form-container">
         <form id="resetform" autocomplete="off" action="resetpassword.php"  method="post">

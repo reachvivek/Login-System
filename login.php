@@ -16,7 +16,6 @@ if (isset($_SESSION['id'])) {
 </head>
 <body>
 <!-- partial:index.partial.html -->
-<h2>SRM PLACEMENTS FORUM</h2>
 
 <div class="container" id="container">
 	<div class="form-container sign-up-container">
